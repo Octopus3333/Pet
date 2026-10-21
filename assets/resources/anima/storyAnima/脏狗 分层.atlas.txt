@@ -1,0 +1,69 @@
+
+脏狗 分层.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 376, 70
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 488, 74
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 574, 409
+  size: 101, 27
+  orig: 103, 29
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 376, 2
+  size: 105, 23
+  orig: 107, 25
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 574, 358
+  size: 48, 49
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 376, 27
+  size: 216, 41
+  orig: 216, 41
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 17
+  size: 493, 372
+  orig: 506, 372
+  offset: 3, 0
+  index: -1
+8
+  rotate: true
+  xy: 376, 208
+  size: 302, 196
+  orig: 313, 196
+  offset: 4, 0
+  index: -1
+9
+  rotate: false
+  xy: 594, 21
+  size: 108, 51
+  orig: 108, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,21 @@
+[
+  {
+    "item_id": 20000,
+    "name": "创口贴",
+    "type": 7,
+    "category": "家具",
+    "des": "",
+    "animal_limit": [
+      1,
+      2,
+      3
+    ],
+    "total_use_count": 0,
+    "use_condition": "-",
+    "note": "",
+    "intimacy": 0,
+    "clean": 0,
+    "pink": 0,
+    "energy": 0
+  }
+]

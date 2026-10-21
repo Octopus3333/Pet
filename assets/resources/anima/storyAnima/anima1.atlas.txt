@@ -1,0 +1,97 @@
+
+anima1.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 33
+  rotate: true
+  xy: 2, 2
+  size: 1061, 1162
+  orig: 1063, 1164
+  offset: 1, 1
+  index: -1
+图层 48
+  rotate: true
+  xy: 1084, 1411
+  size: 86, 144
+  orig: 86, 144
+  offset: 0, 0
+  index: -1
+图层 71
+  rotate: true
+  xy: 1084, 1591
+  size: 187, 200
+  orig: 187, 200
+  offset: 0, 0
+  index: -1
+图层 72
+  rotate: true
+  xy: 1084, 1981
+  size: 366, 268
+  orig: 368, 269
+  offset: 1, 1
+  index: -1
+图层 73
+  rotate: true
+  xy: 1084, 1499
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+框1
+  rotate: true
+  xy: 1084, 2349
+  size: 1055, 768
+  orig: 1057, 769
+  offset: 1, 1
+  index: -1
+狗1
+  rotate: false
+  xy: 1354, 2293
+  size: 118, 54
+  orig: 119, 54
+  offset: 1, 0
+  index: -1
+狗2
+  rotate: false
+  xy: 1194, 1533
+  size: 120, 56
+  orig: 122, 58
+  offset: 1, 1
+  index: -1
+狗3
+  rotate: true
+  xy: 1084, 1780
+  size: 199, 217
+  orig: 200, 217
+  offset: 0, 0
+  index: -1
+狗4
+  rotate: false
+  xy: 1354, 2197
+  size: 72, 45
+  orig: 74, 47
+  offset: 1, 1
+  index: -1
+狗5
+  rotate: false
+  xy: 1354, 2244
+  size: 92, 47
+  orig: 94, 49
+  offset: 1, 1
+  index: -1
+狗6
+  rotate: true
+  xy: 1303, 1924
+  size: 55, 64
+  orig: 57, 66
+  offset: 1, 1
+  index: -1
+背景
+  rotate: false
+  xy: 2, 1065
+  size: 1080, 2339
+  orig: 1080, 2339
+  offset: 0, 0
+  index: -1

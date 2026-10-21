@@ -1,0 +1,174 @@
+
+D_TU.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 1067, 422
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+DT
+  rotate: false
+  xy: 450, 281
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+DT2
+  rotate: false
+  xy: 1067, 343
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+bei
+  rotate: true
+  xy: 1017, 506
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+brush
+  rotate: true
+  xy: 641, 326
+  size: 109, 99
+  orig: 170, 170
+  offset: 30, 36
+  index: -1
+dt_1
+  rotate: false
+  xy: 837, 17
+  size: 243, 315
+  orig: 243, 315
+  offset: 0, 0
+  index: -1
+dt_2
+  rotate: true
+  xy: 488, 23
+  size: 256, 345
+  orig: 256, 345
+  offset: 0, 0
+  index: -1
+dt_3
+  rotate: true
+  xy: 378, 305
+  size: 130, 70
+  orig: 132, 72
+  offset: 1, 1
+  index: -1
+dt_4
+  rotate: true
+  xy: 304, 304
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+dt_5
+  rotate: false
+  xy: 801, 334
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+dt_6
+  rotate: true
+  xy: 304, 437
+  size: 584, 576
+  orig: 584, 576
+  offset: 0, 0
+  index: -1
+dt_7
+  rotate: true
+  xy: 450, 313
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+eat_1
+  rotate: false
+  xy: 742, 281
+  size: 93, 49
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+eat_2
+  rotate: true
+  xy: 1004, 373
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+eat_3
+  rotate: true
+  xy: 742, 332
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 944, 464
+  size: 208, 71
+  orig: 208, 71
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 882, 456
+  size: 216, 60
+  orig: 216, 60
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 882, 674
+  size: 347, 186
+  orig: 347, 186
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 904, 355
+  size: 98, 99
+  orig: 180, 180
+  offset: 41, 42
+  index: -1
+shou_1
+  rotate: true
+  xy: 560, 321
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: true
+  xy: 2, 2
+  size: 274, 237
+  orig: 279, 237
+  offset: 0, 0
+  index: -1
+shou_3
+  rotate: true
+  xy: 241, 5
+  size: 271, 245
+  orig: 271, 245
+  offset: 0, 0
+  index: -1
+shuangxiaba
+  rotate: false
+  xy: 304, 284
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 2, 278
+  size: 743, 300
+  orig: 743, 300
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+cemian_rabbit_bengdai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 554, 179
+  size: 223, 224
+  orig: 224, 225
+  offset: 0, 1
+  index: -1
+bengdai/1
+  rotate: false
+  xy: 743, 2
+  size: 153, 38
+  orig: 155, 40
+  offset: 1, 1
+  index: -1
+bengdai/11
+  rotate: false
+  xy: 779, 303
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+bengdai/2
+  rotate: true
+  xy: 779, 219
+  size: 82, 87
+  orig: 84, 89
+  offset: 1, 1
+  index: -1
+bengdai/3
+  rotate: false
+  xy: 2, 123
+  size: 231, 387
+  orig: 231, 387
+  offset: 0, 0
+  index: -1
+bengdai/4
+  rotate: false
+  xy: 2, 512
+  size: 562, 419
+  orig: 564, 421
+  offset: 1, 1
+  index: -1
+bengdai/5
+  rotate: false
+  xy: 235, 162
+  size: 317, 348
+  orig: 317, 348
+  offset: 0, 0
+  index: -1
+bengdai/7
+  rotate: true
+  xy: 554, 14
+  size: 163, 187
+  orig: 163, 187
+  offset: 0, 0
+  index: -1
+bengdai/10
+  rotate: true
+  xy: 554, 14
+  size: 163, 187
+  orig: 163, 187
+  offset: 0, 0
+  index: -1
+bengdai/8
+  rotate: true
+  xy: 566, 405
+  size: 526, 334
+  orig: 526, 334
+  offset: 0, 0
+  index: -1
+bengdai/9
+  rotate: true
+  xy: 743, 42
+  size: 135, 145
+  orig: 135, 145
+  offset: 0, 0
+  index: -1

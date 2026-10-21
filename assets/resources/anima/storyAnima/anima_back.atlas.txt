@@ -1,0 +1,41 @@
+
+anima_back.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+今天的天气真是不错啊~
+  rotate: true
+  xy: 2, 2
+  size: 694, 45
+  orig: 696, 47
+  offset: 1, 1
+  index: -1
+你决定去附近的商店街逛一逛
+  rotate: true
+  xy: 911, 682
+  size: 845, 47
+  orig: 847, 49
+  offset: 1, 1
+  index: -1
+收拾完行李，对面空落落的房间
+  rotate: false
+  xy: 2, 1479
+  size: 907, 48
+  orig: 909, 50
+  offset: 1, 1
+  index: -1
+背景
+  rotate: false
+  xy: 2, 1529
+  size: 1080, 2339
+  orig: 1080, 2339
+  offset: 0, 0
+  index: -1
+这是你刚搬来小镇的第一天
+  rotate: true
+  xy: 2, 698
+  size: 779, 45
+  orig: 781, 47
+  offset: 1, 1
+  index: -1

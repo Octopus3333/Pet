@@ -1,0 +1,87 @@
+[   
+    {
+        "step":0,
+        "content":[
+
+            {   
+                "sort":1,
+                "showType":1,
+                "animaPath":"11",
+                "imagePath":"",
+                "panelName":"",
+                "descrip":"",
+                "needMask":false,
+                "maskTarget":""
+            },
+            {
+                "sort":2,
+                "showType":2,
+                "animaPath":"",
+                "imagePath":"",
+                "panelName":"QuizPanel",
+                "descrip":"",
+                "needMask":false,
+                "maskTarget":""
+            }
+        ]        
+    },
+    {
+        "step":1,
+        "content":[
+            {   
+                "sort":1,
+                "showType":2,
+                "animaPath":"",
+                "imagePath":"",
+                "panelName":"StoryStep2",
+                "descrip":"",
+                "needMask":true,
+                "maskTarget":""
+            }
+           
+        ]            
+    },
+    {
+        "step":2,
+        "content":[
+            {   
+                "sort":1,
+                "showType":2,
+                "animaPath":"",
+                "imagePath":"",
+                "panelName":"RubbishHomePanel",
+                "descrip":"",
+                "needMask":false,
+                "maskTarget":"nd_bottom/btn_eat"
+            }
+           
+        ]
+            
+    },
+    {
+        "step":3,
+        "content":[
+            {
+                "sort":1,
+                "showType":1,
+                "animaPath":"33",
+                "imagePath":"",
+                "panelName":"",
+                "descrip":"",
+                "needMask":false,
+                "maskTarget":""
+            },
+            {   
+                "sort":2,
+                "showType":2,
+                "animaPath":"",
+                "imagePath":"",
+                "panelName":"RubbishHomePanel",
+                "descrip":"",
+                "needMask":true,
+                "maskTarget":"nd_bottom/btn_phone"
+            }
+        ]
+            
+    }
+]

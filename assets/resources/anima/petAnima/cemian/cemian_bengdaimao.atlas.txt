@@ -1,0 +1,97 @@
+
+cemian_bengdaimao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 401, 2
+  size: 190, 131
+  orig: 190, 131
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 640, 282
+  size: 223, 224
+  orig: 224, 225
+  offset: 0, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 15
+  size: 491, 397
+  orig: 493, 399
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 865, 316
+  size: 181, 190
+  orig: 181, 191
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 593, 23
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 640, 170
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 401, 135
+  size: 371, 237
+  orig: 371, 237
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 846, 172
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 743, 170
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 696, 2
+  size: 166, 231
+  orig: 166, 231
+  offset: 0, 0
+  index: -1
+图层 105
+  rotate: true
+  xy: 929, 61
+  size: 109, 76
+  orig: 111, 78
+  offset: 1, 1
+  index: -1
+图层 106
+  rotate: true
+  xy: 950, 230
+  size: 84, 71
+  orig: 86, 74
+  offset: 1, 2
+  index: -1
+图层 107
+  rotate: false
+  xy: 929, 11
+  size: 73, 48
+  orig: 75, 50
+  offset: 1, 1
+  index: -1

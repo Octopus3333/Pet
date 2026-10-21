@@ -1,0 +1,55 @@
+
+anima_fore.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前
+  rotate: false
+  xy: 2, 527
+  size: 1080, 2339
+  orig: 1080, 2339
+  offset: 0, 0
+  index: -1
+文本1
+  rotate: true
+  xy: 2, 12
+  size: 346, 172
+  orig: 348, 174
+  offset: 1, 1
+  index: -1
+文本2
+  rotate: false
+  xy: 2, 360
+  size: 505, 165
+  orig: 507, 167
+  offset: 1, 1
+  index: -1
+文本3
+  rotate: true
+  xy: 341, 67
+  size: 291, 136
+  orig: 293, 138
+  offset: 1, 1
+  index: -1
+文本4
+  rotate: true
+  xy: 509, 121
+  size: 404, 181
+  orig: 406, 183
+  offset: 1, 1
+  index: -1
+文本5
+  rotate: false
+  xy: 479, 2
+  size: 246, 117
+  orig: 248, 119
+  offset: 1, 1
+  index: -1
+文本6
+  rotate: true
+  xy: 176, 14
+  size: 344, 163
+  orig: 346, 166
+  offset: 1, 2
+  index: -1

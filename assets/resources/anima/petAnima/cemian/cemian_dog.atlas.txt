@@ -1,0 +1,885 @@
+
+cemian_dog.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandian/bandian_ear-r
+  rotate: true
+  xy: 1647, 164
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+bandian/bandian_legb-l
+  rotate: true
+  xy: 989, 1442
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+bandian/bandian_legb-r
+  rotate: true
+  xy: 564, 1102
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+bandian/bandian_legb-r2
+  rotate: true
+  xy: 1832, 1372
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+bandian/bandian_legf-l
+  rotate: true
+  xy: 216, 1780
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+bandian/bandian_legf-r
+  rotate: true
+  xy: 402, 1780
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+bandian/bandian_tail
+  rotate: true
+  xy: 722, 509
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_ear-r
+  rotate: true
+  xy: 2, 51
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+black/black_ear-r
+  rotate: true
+  xy: 2, 51
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+bianmu/bianmu_legb-l
+  rotate: true
+  xy: 1270, 1442
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_legb-r
+  rotate: true
+  xy: 845, 1100
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_legb-r2
+  rotate: false
+  xy: 2, 745
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_legf-l
+  rotate: true
+  xy: 607, 1780
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_legf-r
+  rotate: true
+  xy: 793, 1780
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_tail
+  rotate: true
+  xy: 957, 509
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+black/black_legb-l
+  rotate: true
+  xy: 1551, 1442
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+black/black_legb-r
+  rotate: true
+  xy: 1126, 1100
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+black/black_legb-r2
+  rotate: false
+  xy: 242, 745
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+black/black_legf-l
+  rotate: true
+  xy: 998, 1780
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+black/black_legf-r
+  rotate: true
+  xy: 1184, 1780
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+black/black_tail
+  rotate: true
+  xy: 1192, 509
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+demu/demu_ear-r
+  rotate: true
+  xy: 316, 49
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+demu/demu_legb-l
+  rotate: true
+  xy: 2, 1274
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+demu/demu_legb-r
+  rotate: true
+  xy: 1407, 1100
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+demu/demu_legb-r2
+  rotate: false
+  xy: 482, 743
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+demu/demu_legf-l
+  rotate: true
+  xy: 1389, 1780
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+demu/demu_legf-r
+  rotate: true
+  xy: 1575, 1780
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+demu/demu_tail
+  rotate: true
+  xy: 1427, 509
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: true
+  xy: 630, 2
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+eye-l
+  rotate: false
+  xy: 39, 1909
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+eye-r
+  rotate: true
+  xy: 2, 1912
+  size: 34, 35
+  orig: 36, 37
+  offset: 1, 1
+  index: -1
+hashiqi/hashiqi_ear-r
+  rotate: true
+  xy: 944, 2
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+hashiqi/hashiqi_legb-l
+  rotate: true
+  xy: 283, 1274
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_legb-r
+  rotate: true
+  xy: 1688, 1030
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_legb-r2
+  rotate: false
+  xy: 722, 741
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_legf-l
+  rotate: true
+  xy: 1780, 1780
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_legf-r
+  rotate: true
+  xy: 2, 1652
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_tail
+  rotate: true
+  xy: 1662, 439
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+heichai/heichai_ear-r
+  rotate: true
+  xy: 1258, 2
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+heichai/heichai_legb-l
+  rotate: true
+  xy: 564, 1274
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+heichai/heichai_legb-r
+  rotate: true
+  xy: 2, 932
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+heichai/heichai_legb-r2
+  rotate: false
+  xy: 962, 741
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+heichai/heichai_legf-l
+  rotate: true
+  xy: 207, 1612
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+heichai/heichai_legf-r
+  rotate: true
+  xy: 393, 1612
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+heichai/heichai_tail
+  rotate: true
+  xy: 2, 326
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_legb-l
+  rotate: true
+  xy: 845, 1272
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_legb-r
+  rotate: true
+  xy: 283, 932
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_legb-r2
+  rotate: false
+  xy: 1202, 741
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_legf-l
+  rotate: true
+  xy: 598, 1612
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_legf-r
+  rotate: true
+  xy: 784, 1612
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_tail
+  rotate: true
+  xy: 237, 326
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+keji/keji_legb-l
+  rotate: true
+  xy: 1126, 1272
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+keji/keji_legb-r
+  rotate: true
+  xy: 564, 930
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+keji/keji_legb-r2
+  rotate: false
+  xy: 1442, 741
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+keji/keji_legf-l
+  rotate: true
+  xy: 989, 1612
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+keji/keji_legf-r
+  rotate: true
+  xy: 1175, 1612
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+keji/keji_tail
+  rotate: true
+  xy: 472, 324
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+legb-l
+  rotate: true
+  xy: 1407, 1272
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+legb-r
+  rotate: true
+  xy: 845, 928
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+legb-r2
+  rotate: false
+  xy: 1682, 671
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+legf-l
+  rotate: true
+  xy: 1380, 1612
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+legf-r
+  rotate: true
+  xy: 1566, 1612
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 78, 1820
+  size: 136, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 707, 277
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_legb-l
+  rotate: true
+  xy: 1688, 1202
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_legb-r
+  rotate: true
+  xy: 1126, 928
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_legb-r2
+  rotate: false
+  xy: 2, 558
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_legf-l
+  rotate: true
+  xy: 1771, 1612
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_legf-r
+  rotate: true
+  xy: 2, 1484
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_tail
+  rotate: true
+  xy: 942, 277
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+white/white_legb-l
+  rotate: true
+  xy: 2, 1104
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+white/white_legb-r
+  rotate: true
+  xy: 1407, 928
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+white/white_legb-r2
+  rotate: false
+  xy: 242, 558
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+white/white_legf-l
+  rotate: true
+  xy: 207, 1444
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+white/white_legf-r
+  rotate: true
+  xy: 393, 1444
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+white/white_tail
+  rotate: true
+  xy: 1177, 277
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_legb-l
+  rotate: true
+  xy: 283, 1104
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_legb-r
+  rotate: true
+  xy: 1688, 858
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_legb-r2
+  rotate: false
+  xy: 482, 556
+  size: 238, 185
+  orig: 238, 185
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_legf-l
+  rotate: true
+  xy: 598, 1444
+  size: 166, 184
+  orig: 166, 184
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_legf-r
+  rotate: true
+  xy: 784, 1444
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_tail
+  rotate: true
+  xy: 1412, 277
+  size: 230, 233
+  orig: 230, 233
+  offset: 0, 0
+  index: -1
+
+cemian_dog2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandian/bandian_face
+  rotate: false
+  xy: 2, 1442
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_face
+  rotate: false
+  xy: 2, 962
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+black/black_face
+  rotate: false
+  xy: 636, 1442
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+demu/demu_face
+  rotate: false
+  xy: 2, 482
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 636, 962
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_face
+  rotate: false
+  xy: 1270, 1442
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+heichai/heichai_face
+  rotate: false
+  xy: 2, 2
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_face
+  rotate: false
+  xy: 636, 482
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+keji/keji_face
+  rotate: false
+  xy: 1270, 962
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_face
+  rotate: false
+  xy: 636, 2
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+white/white_face
+  rotate: false
+  xy: 1270, 482
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_face
+  rotate: false
+  xy: 1270, 2
+  size: 632, 478
+  orig: 632, 478
+  offset: 0, 0
+  index: -1
+
+cemian_dog3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandian/bandian_body
+  rotate: false
+  xy: 2, 443
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+bandian/bandian_ear-l
+  rotate: true
+  xy: 1572, 1715
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_body
+  rotate: false
+  xy: 1190, 1077
+  size: 576, 355
+  orig: 576, 355
+  offset: 0, 0
+  index: -1
+bianmu/bianmu_ear-l
+  rotate: true
+  xy: 2, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+black/black_ear-l
+  rotate: true
+  xy: 2, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+black/black_body
+  rotate: false
+  xy: 582, 361
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1162, 361
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+demu/demu_body
+  rotate: false
+  xy: 2, 84
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+demu/demu_ear-l
+  rotate: true
+  xy: 299, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+ear-l
+  rotate: true
+  xy: 596, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_body
+  rotate: false
+  xy: 2, 802
+  size: 576, 355
+  orig: 576, 355
+  offset: 0, 0
+  index: -1
+hashiqi/hashiqi_ear-l
+  rotate: true
+  xy: 893, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+heichai/heichai_body
+  rotate: false
+  xy: 580, 802
+  size: 576, 355
+  orig: 576, 355
+  offset: 0, 0
+  index: -1
+heichai/heichai_ear-l
+  rotate: true
+  xy: 1190, 1440
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_body
+  rotate: false
+  xy: 582, 2
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_ear-l
+  rotate: true
+  xy: 1487, 1434
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+huangbai/huangbai_ear-r
+  rotate: true
+  xy: 2, 1721
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+keji/keji_body
+  rotate: false
+  xy: 1158, 720
+  size: 576, 355
+  orig: 576, 355
+  offset: 0, 0
+  index: -1
+keji/keji_ear-l
+  rotate: true
+  xy: 2, 1159
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+keji/keji_ear-r
+  rotate: true
+  xy: 316, 1721
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+tianyuanquan/tianyuanquan_body
+  rotate: false
+  xy: 1162, 2
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_ear-l
+  rotate: true
+  xy: 299, 1159
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+tianyuanquan/tianyuanquan_ear-r
+  rotate: true
+  xy: 630, 1721
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+white/white_ear-l
+  rotate: true
+  xy: 596, 1159
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+white/white_ear-r
+  rotate: true
+  xy: 944, 1721
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+yunshibianmu/yunshibianmu_ear-l
+  rotate: true
+  xy: 893, 1159
+  size: 279, 295
+  orig: 297, 295
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_ear-r
+  rotate: true
+  xy: 1258, 1721
+  size: 273, 312
+  orig: 280, 312
+  offset: 7, 0
+  index: -1
+
+cemian_dog4.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+white/white_body
+  rotate: false
+  xy: 2, 2
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1
+yunshibianmu/yunshibianmu_body
+  rotate: false
+  xy: 582, 2
+  size: 578, 357
+  orig: 578, 357
+  offset: 0, 0
+  index: -1

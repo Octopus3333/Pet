@@ -1,0 +1,80 @@
+[
+    {
+    "id":20001,
+    "name": "废弃报纸",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20002,
+    "name": "白菜叶",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20003,
+    "name": "奶茶瓶",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20004,
+    "name": "西瓜皮",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20005,
+    "name": "鱼骨头",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+    {
+    "id":20006,
+    "name": "塑料瓶",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20007,
+    "name": "纸团1",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20008,
+    "name": "纸团2",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20009,
+    "name": "香蕉皮",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+    {
+    "id":20010  ,
+    "name": "透明塑料袋",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    },
+        {
+    "id":20011  ,
+    "name": "小孩的阿贝贝",
+    "type":6,
+    "location_id":1,
+    "group":"垃圾"
+    }
+
+]

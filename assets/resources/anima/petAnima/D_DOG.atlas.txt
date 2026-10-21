@@ -1,0 +1,153 @@
+
+D_DOG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: false
+  xy: 957, 126
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+D2
+  rotate: false
+  xy: 2, 102
+  size: 393, 408
+  orig: 393, 408
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 194, 10
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+D5
+  rotate: true
+  xy: 2, 2
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+D6
+  rotate: false
+  xy: 93, 10
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+D7
+  rotate: true
+  xy: 839, 109
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1
+D8
+  rotate: false
+  xy: 282, 18
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+brush
+  rotate: false
+  xy: 794, 3
+  size: 115, 104
+  orig: 170, 170
+  offset: 26, 34
+  index: -1
+eye
+  rotate: false
+  xy: 397, 105
+  size: 216, 56
+  orig: 216, 56
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 574, 39
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 397, 163
+  size: 347, 186
+  orig: 347, 186
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 522, 31
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 1071, 330
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 386, 21
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: true
+  xy: 585, 231
+  size: 279, 237
+  orig: 279, 237
+  offset: 0, 0
+  index: -1
+shou_3
+  rotate: true
+  xy: 824, 239
+  size: 271, 245
+  orig: 271, 245
+  offset: 0, 0
+  index: -1
+shuangxiaba
+  rotate: true
+  xy: 502, 26
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 615, 109
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 727, 109
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 911, 55
+  size: 266, 52
+  orig: 266, 52
+  offset: 0, 0
+  index: -1
+z_3
+  rotate: false
+  xy: 911, 17
+  size: 137, 36
+  orig: 137, 36
+  offset: 0, 0
+  index: -1

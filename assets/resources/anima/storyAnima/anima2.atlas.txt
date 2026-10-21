@@ -1,0 +1,76 @@
+
+anima2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 59
+  rotate: false
+  xy: 476, 871
+  size: 140, 104
+  orig: 142, 106
+  offset: 1, 1
+  index: -1
+图层 9
+  rotate: false
+  xy: 585, 2
+  size: 1045, 523
+  orig: 1047, 525
+  offset: 1, 1
+  index: -1
+框2
+  rotate: false
+  xy: 837, 527
+  size: 911, 448
+  orig: 913, 450
+  offset: 1, 1
+  index: -1
+狗1
+  rotate: false
+  xy: 170, 921
+  size: 116, 54
+  orig: 119, 54
+  offset: 3, 0
+  index: -1
+狗2
+  rotate: false
+  xy: 354, 919
+  size: 120, 56
+  orig: 122, 58
+  offset: 1, 1
+  index: -1
+狗3
+  rotate: true
+  xy: 618, 776
+  size: 199, 217
+  orig: 200, 217
+  offset: 0, 0
+  index: -1
+狗4
+  rotate: false
+  xy: 2, 930
+  size: 72, 45
+  orig: 74, 47
+  offset: 1, 1
+  index: -1
+狗5
+  rotate: false
+  xy: 76, 928
+  size: 92, 47
+  orig: 94, 49
+  offset: 1, 1
+  index: -1
+狗6
+  rotate: true
+  xy: 288, 920
+  size: 55, 64
+  orig: 57, 66
+  offset: 1, 1
+  index: -1
+组 6 拷贝
+  rotate: true
+  xy: 2, 203
+  size: 666, 581
+  orig: 668, 583
+  offset: 1, 1
+  index: -1

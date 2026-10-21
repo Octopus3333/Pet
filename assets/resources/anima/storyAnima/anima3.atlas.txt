@@ -1,0 +1,27 @@
+
+anima3.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 2
+  rotate: false
+  xy: 2, 602
+  size: 963, 670
+  orig: 965, 672
+  offset: 1, 1
+  index: -1
+图层 3
+  rotate: false
+  xy: 2, 2
+  size: 603, 598
+  orig: 603, 598
+  offset: 0, 0
+  index: -1
+框3
+  rotate: false
+  xy: 2, 1274
+  size: 983, 680
+  orig: 985, 682
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,15 @@
+# Ignore all files by default
+*
+
+# Whitelist: version control only these
+!.gitignore
+!assets/
+!assets/**
+!native/
+!native/**
+!docs/
+!docs/**
+!package.json
+!tsconfig.json
+assets/resources/textures/story/white_square.png
+assets/resources/textures/story/white_square.png.meta

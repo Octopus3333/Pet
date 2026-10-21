@@ -1,0 +1,139 @@
+
+兔合并.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 705, 512
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 846, 512
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 9
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 74, 9
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1364, 83
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+b_1
+  rotate: true
+  xy: 2, 450
+  size: 564, 405
+  orig: 564, 405
+  offset: 0, 0
+  index: -1
+b_2
+  rotate: false
+  xy: 976, 643
+  size: 268, 371
+  orig: 268, 371
+  offset: 0, 0
+  index: -1
+b_3
+  rotate: false
+  xy: 705, 641
+  size: 269, 373
+  orig: 269, 373
+  offset: 0, 0
+  index: -1
+b_4
+  rotate: false
+  xy: 987, 540
+  size: 164, 101
+  orig: 166, 104
+  offset: 1, 1
+  index: -1
+b_5
+  rotate: false
+  xy: 860, 36
+  size: 164, 101
+  orig: 166, 104
+  offset: 1, 1
+  index: -1
+b_6
+  rotate: true
+  xy: 409, 508
+  size: 506, 294
+  orig: 506, 294
+  offset: 0, 0
+  index: -1
+b_7
+  rotate: true
+  xy: 1192, 71
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+h_1
+  rotate: false
+  xy: 2, 45
+  size: 562, 403
+  orig: 562, 403
+  offset: 0, 0
+  index: -1
+h_2
+  rotate: false
+  xy: 1129, 169
+  size: 266, 369
+  orig: 266, 369
+  offset: 0, 0
+  index: -1
+h_3
+  rotate: false
+  xy: 860, 139
+  size: 267, 371
+  orig: 267, 371
+  offset: 0, 0
+  index: -1
+h_4
+  rotate: false
+  xy: 1026, 36
+  size: 164, 101
+  orig: 164, 102
+  offset: 0, 0
+  index: -1
+h_5
+  rotate: false
+  xy: 1153, 540
+  size: 164, 101
+  orig: 164, 102
+  offset: 0, 0
+  index: -1
+h_6
+  rotate: true
+  xy: 566, 2
+  size: 504, 292
+  orig: 504, 292
+  offset: 0, 0
+  index: -1
+h_7
+  rotate: true
+  xy: 1279, 73
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "question": "周末你常怎么过？",
+      "options": [
+        "宅家放松",
+        "户外运动",
+        "朋友聚餐",
+        "安静独处"
+      ]
+    },
+    {
+      "question": "做决定时你？",
+      "options": [
+        "深思熟虑",
+        "直觉果断",
+        "参考他人",
+        "顺其自然"
+      ]
+    },
+    {
+      "question": "你爱吃什么？",
+      "options": [
+        "带骨肉",
+        "绿叶菜",
+        "鲜鱼",
+        "随缘"
+      ]
+    }
+  ],
+  "natureNames": {
+    "1": "敏感",
+    "2": "懒散",
+    "3": "好奇",
+    "4": "佛系",
+    "5": "乖巧",
+    "6": "黏人",
+    "7": "好动",
+    "8": "乐天",
+    "9": "傲娇",
+    "10": "忧郁",
+    "11": "霸道",
+    "12": "记仇"
+  },
+  "petNames": {
+    "1": "猫",
+    "2": "狗",
+    "3": "兔"
+  },
+  "results": {
+    "AAA": { "nature": 1, "pet": 2 },
+    "AAB": { "nature": 1, "pet": 3 },
+    "AAC": { "nature": 1, "pet": 1 },
+    "AAD": { "nature": 2, "pet": 2 },
+    "ABA": { "nature": 3, "pet": 2 },
+    "ABB": { "nature": 3, "pet": 3 },
+    "ABC": { "nature": 3, "pet": 1 },
+    "ABD": { "nature": 4, "pet": 1 },
+    "ACA": { "nature": 5, "pet": 2 },
+    "ACB": { "nature": 5, "pet": 3 },
+    "ACC": { "nature": 5, "pet": 1 },
+    "ACD": { "nature": 2, "pet": 3 },
+    "ADA": { "nature": 6, "pet": 2 },
+    "ADB": { "nature": 6, "pet": 3 },
+    "ADC": { "nature": 6, "pet": 1 },
+    "ADD": { "nature": 4, "pet": 2 },
+    "BAA": { "nature": 7, "pet": 2 },
+    "BAB": { "nature": 7, "pet": 3 },
+    "BAC": { "nature": 7, "pet": 1 },
+    "BAD": { "nature": 2, "pet": 1 },
+    "BBA": { "nature": 8, "pet": 2 },
+    "BBB": { "nature": 8, "pet": 3 },
+    "BBC": { "nature": 8, "pet": 1 },
+    "BBD": { "nature": 4, "pet": 3 },
+    "BCA": { "nature": 9, "pet": 2 },
+    "BCB": { "nature": 9, "pet": 3 },
+    "BCC": { "nature": 9, "pet": 1 },
+    "BCD": { "nature": 2, "pet": 2 },
+    "BDA": { "nature": 10, "pet": 2 },
+    "BDB": { "nature": 10, "pet": 3 },
+    "BDC": { "nature": 10, "pet": 1 },
+    "BDD": { "nature": 4, "pet": 1 },
+    "CAA": { "nature": 11, "pet": 2 },
+    "CAB": { "nature": 11, "pet": 3 },
+    "CAC": { "nature": 11, "pet": 1 },
+    "CAD": { "nature": 2, "pet": 3 },
+    "CBA": { "nature": 12, "pet": 2 },
+    "CBB": { "nature": 12, "pet": 3 },
+    "CBC": { "nature": 12, "pet": 1 },
+    "CBD": { "nature": 4, "pet": 2 },
+    "CCA": { "nature": 1, "pet": 2 },
+    "CCB": { "nature": 1, "pet": 3 },
+    "CCC": { "nature": 1, "pet": 1 },
+    "CCD": { "nature": 2, "pet": 1 },
+    "CDA": { "nature": 3, "pet": 2 },
+    "CDB": { "nature": 3, "pet": 3 },
+    "CDC": { "nature": 3, "pet": 1 },
+    "CDD": { "nature": 4, "pet": 3 },
+    "DAA": { "nature": 5, "pet": 2 },
+    "DAB": { "nature": 5, "pet": 3 },
+    "DAC": { "nature": 5, "pet": 1 },
+    "DAD": { "nature": 2, "pet": 2 },
+    "DBA": { "nature": 6, "pet": 2 },
+    "DBB": { "nature": 6, "pet": 3 },
+    "DBC": { "nature": 6, "pet": 1 },
+    "DBD": { "nature": 4, "pet": 1 },
+    "DCA": { "nature": 7, "pet": 2 },
+    "DCB": { "nature": 7, "pet": 3 },
+    "DCC": { "nature": 7, "pet": 1 },
+    "DCD": { "nature": 2, "pet": 3 },
+    "DDA": { "nature": 8, "pet": 2 },
+    "DDB": { "nature": 8, "pet": 3 },
+    "DDC": { "nature": 8, "pet": 1 },
+    "DDD": { "nature": 4, "pet": 2 }
+  }
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "item_id": 10011,
+        "name": "鱼骨头",
+        "type": 73,
+        "category": "食物",
+        "des": "仿真鱼骨头",
+        "animal_limit": [
+        1,
+        2,
+        3
+        ],
+        "quality": 73,
+        "can_send": false,
+        "can_sale": false,
+        "sale_pink": 0,
+        "sale_type": 0,
+        "recycle_pink": 0,
+        "recycle_type": 0,
+        "total_use_count": 0,
+        "use_condition": "",
+        "note": "",
+        "intimacy": 0,
+        "clean": 0,
+        "pink": 0,
+        "energy": 0
+    }
+]
